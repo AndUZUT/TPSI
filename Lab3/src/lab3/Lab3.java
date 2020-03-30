@@ -57,7 +57,7 @@ public class Lab3 {
         System.out.println(dzien);
         }
         
-        System.out.println("Nie można przewidzieć w tym przypadku jak HashSet");
+        System.out.println("Nie można przewidzieć w jakiej kolejności będzie HashSet wyświetlany, natomiast TreeSet jest wyświetlany alfabetycznie");
         
         System.out.println("Zadanie 2");
         
